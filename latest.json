@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.3",
-  "apk": "ModaFloww-Panel-1.0.3.apk",
-  "sha256": "b54aac48da821506ee99d4c00489aad01eeca483d3a4aef760daae0e6242f489",
-  "size": 3457828,
-  "notes": "Grup otomasyonu (ortak sunucu), görünüm ve kişiselleştirme, güvenli sunucu anahtarı deposu",
-  "publishedAt": "2026-10-17T22:00:55.964Z"
+  "versionCode": 6,
+  "versionName": "1.0.6",
+  "apk": "ModaFloww-Panel-1.0.6.apk",
+  "sha256": "ddb393b316c41e6cbb20e897debf71926703b788bd0dd8ef9ab33e7f413c2325",
+  "size": 3457856,
+  "notes": "Güvenlik: hata ayıklama erişimi ve uygulama içi kayıtlar kapatıldı",
+  "publishedAt": "2026-10-17T22:15:53.862Z"
 }
