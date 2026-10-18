@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.10",
-  "apk": "ModaFloww-Panel-1.0.10.apk",
-  "sha256": "efb9f84f5d9634f5f1abb33169628e32325e2c6691960880d8b0f0d5ffc1d0dc",
-  "size": 3479249,
-  "notes": "İade analizi (nedenler, ülke, beden, ürün, iade oranı ve kesintiler); kâr hesaplayıcıda yazı ve tutar kaymaları düzeltildi",
-  "publishedAt": "2026-10-18T12:35:22.536Z"
+  "versionCode": 11,
+  "versionName": "1.0.11",
+  "apk": "ModaFloww-Panel-1.0.11.apk",
+  "sha256": "71c2004beb31e1f4e453ec85bc263665e18c07cbec937be812534822c1927f44",
+  "size": 3479747,
+  "notes": "Yeni siparişler (Trendyol ReadyToShip durumu) artık Kargolanacak listesinde ve bildirimlerde görünüyor",
+  "publishedAt": "2026-10-18T14:46:34.121Z"
 }
