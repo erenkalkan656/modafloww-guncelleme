@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.9",
-  "apk": "ModaFloww-Panel-1.0.9.apk",
-  "sha256": "69a13370c93bd3a788d53504c783d5814bfc43152afd743f6b99071965955c58",
-  "size": 3473684,
-  "notes": "Soru otomasyonu: otomatik cevap durumu, deneme, geçmiş ve spam soruları Trendyol paneline bildirme",
-  "publishedAt": "2026-10-18T01:12:46.317Z"
+  "versionCode": 10,
+  "versionName": "1.0.10",
+  "apk": "ModaFloww-Panel-1.0.10.apk",
+  "sha256": "efb9f84f5d9634f5f1abb33169628e32325e2c6691960880d8b0f0d5ffc1d0dc",
+  "size": 3479249,
+  "notes": "İade analizi (nedenler, ülke, beden, ürün, iade oranı ve kesintiler); kâr hesaplayıcıda yazı ve tutar kaymaları düzeltildi",
+  "publishedAt": "2026-10-18T12:35:22.536Z"
 }
