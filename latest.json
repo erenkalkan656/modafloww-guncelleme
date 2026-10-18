@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.8",
-  "apk": "ModaFloww-Panel-1.0.8.apk",
-  "sha256": "ea0c893f704b34f322bf25868b05d57ae991e6f2ba1cf332dabe337cf6db70b2",
-  "size": 3468099,
-  "notes": "Hakediş: Trendyol panelinden kesin ödeme takvimi (bilgisayar gerekmez), geçmiş aylardaki ödemeler, kâr hesaplayıcı",
-  "publishedAt": "2026-10-17T23:33:18.280Z"
+  "versionCode": 9,
+  "versionName": "1.0.9",
+  "apk": "ModaFloww-Panel-1.0.9.apk",
+  "sha256": "69a13370c93bd3a788d53504c783d5814bfc43152afd743f6b99071965955c58",
+  "size": 3473684,
+  "notes": "Soru otomasyonu: otomatik cevap durumu, deneme, geçmiş ve spam soruları Trendyol paneline bildirme",
+  "publishedAt": "2026-10-18T01:12:46.317Z"
 }
