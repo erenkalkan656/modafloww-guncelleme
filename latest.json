@@ -1,9 +1,9 @@
 {
-  "build": 4,
-  "version": "1.0.4",
-  "file": "app-4.bin",
-  "sha256": "310e454c55923fdefedabc214698fd488d515b2da4808c43d75d9a5619b06f2a",
-  "size": 978492,
-  "notes": "İade analizi: en çok iade edilen beden ve nedeni özet olarak gösterilir, beden tablosunda her neden ayrı sütunda (varsayılan dönem son 3 ay). Kurulum sihirbazı ve Ayarlar'da Başlangıç bölümü. Sticker önizlemesini hızlandırmak için panel yapısı tanısı eklendi.",
-  "publishedAt": "2026-11-12T15:50:42.895Z"
+  "build": 5,
+  "version": "1.0.5",
+  "file": "app-5.bin",
+  "sha256": "de49b48bd0ec015a87564c95dd9f0be35b32fbbd7e731a2b950169678f09892f",
+  "size": 981649,
+  "notes": "Sticker önizlemesini hızlandırma hazırlığı: Trendyol panelinin yapısı bir kez okunur (yalnızca okuma; hiçbir etiket düğmesine basılmaz). Etiket alırken gereksiz bekleme kısaltıldı.",
+  "publishedAt": "2026-11-12T16:04:07.695Z"
 }
