@@ -1,0 +1,31 @@
+PAZARYERI SATICI PANELI - KURULUM
+=================================
+
+Bu klasor Trendyol saticilari icin masaustu uygulamasinin kurulum paketidir.
+Icinde hicbir magazanin bilgisi yoktur; herkes kendi magazasini kendisi baglar.
+
+KURULUM (Windows 10 / 11, 64 bit)
+---------------------------------
+1. Bu klasoru bilgisayarinizda kalici bir yere koyun (ornegin Belgeler ya da Masaustu).
+   Uygulama bu klasorun icine kurulur; klasoru sonradan silmeyin ya da tasimayin.
+2. KURULUM.bat dosyasina cift tiklayin.
+   - Windows "Bilgisayarinizi korudu" derse: "Ek bilgi" > "Yine de calistir".
+   - Ilk kurulumda yaklasik 110 MB indirilir (bir kez), 1-2 dakika surer.
+3. Uygulama kendiliginden acilir ve kurulum sihirbazi baslar.
+   Sihirbaz sizden Trendyol Satici ID, API Key ve API Secret ister;
+   bunlari Trendyol satici panelinde Hesap Bilgilerim > Entegrasyon Bilgileri
+   sayfasindan alirsiniz (sihirbaz adim adim gosterir).
+
+SONRASI
+-------
+- Masaustunde "Trendyol Satici Paneli" kisayolu olusur; uygulamayi oradan acarsiniz.
+- Guncellemeler kendiliginden gelir: yeni surum cikinca sag ustte "Guncelle"
+  dugmesi belirir, basinca kurulur. Bu klasoru yeniden indirmeniz gerekmez.
+- API bilgileriniz yalnizca sizin bilgisayarinizda, sifrelenmis olarak durur.
+
+SORUN OLURSA
+------------
+- Uygulama acilmiyorsa: YENIDEN-BASLAT.bat
+- Kisayol ikonu eski gorunuyorsa: IKON-YENILE.bat
+- Kaldirmak icin: KALDIR.bat (verileriniz yalnizca "EVET" yazarsaniz silinir)
+- Ayrintili kilavuz: KILAVUZ.md

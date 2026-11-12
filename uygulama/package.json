@@ -1,0 +1,8 @@
+{
+  "name": "trendyol-satici-paneli",
+  "productName": "Trendyol Satici Paneli",
+  "version": "1.0.0",
+  "description": "Trendyol satıcı yönetim paneli (Electron masaüstü uygulaması)",
+  "main": "electron/main.js",
+  "private": true
+}
