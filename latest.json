@@ -1,9 +1,9 @@
 {
-  "build": 1,
-  "version": "1.0.1",
-  "file": "app-1.bin",
-  "sha256": "992fee1d4d78016845f1f6c1aa28714d58ce1690772e7d5ebc97fd71cd3599fe",
-  "size": 967075,
-  "notes": "Uzaktan güncelleme eklendi; uygulamanın adı Pazaryeri Satıcı Paneli oldu.",
-  "publishedAt": "2026-11-12T15:16:48.589Z"
+  "build": 2,
+  "version": "1.0.2",
+  "file": "app-2.bin",
+  "sha256": "9022dddb14b28eef0d6c4caf583daae3b5f6c5aa49cb3e161e1f6470e74c8ac7",
+  "size": 967632,
+  "notes": "Ayarlar sayfasına Başlangıç bölümü eklendi: bilgisayar açılınca kendiliğinden başlatma ve pencere kapanınca arka planda çalışma buradan açılıp kapatılır.",
+  "publishedAt": "2026-11-12T15:31:50.494Z"
 }
