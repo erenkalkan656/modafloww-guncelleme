@@ -1,9 +1,9 @@
 {
-  "build": 3,
-  "version": "1.0.3",
-  "file": "app-3.bin",
-  "sha256": "16c260dd36c040d0f2cae5059e206159d975234923f9745790eb7ec34703e72e",
-  "size": 975355,
-  "notes": "Kurulum sihirbazı eklendi: uygulama ilk açıldığında mağaza adı, Trendyol bağlantısı, etiket ve başlangıç ayarlarını adım adım kurar (Ayarlar › Sihirbazı aç ile yeniden açılır). Ayarlar sayfasına Başlangıç bölümü eklendi.",
-  "publishedAt": "2026-11-12T15:39:12.441Z"
+  "build": 4,
+  "version": "1.0.4",
+  "file": "app-4.bin",
+  "sha256": "310e454c55923fdefedabc214698fd488d515b2da4808c43d75d9a5619b06f2a",
+  "size": 978492,
+  "notes": "İade analizi: en çok iade edilen beden ve nedeni özet olarak gösterilir, beden tablosunda her neden ayrı sütunda (varsayılan dönem son 3 ay). Kurulum sihirbazı ve Ayarlar'da Başlangıç bölümü. Sticker önizlemesini hızlandırmak için panel yapısı tanısı eklendi.",
+  "publishedAt": "2026-11-12T15:50:42.895Z"
 }
