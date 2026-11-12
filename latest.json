@@ -1,9 +1,9 @@
 {
-  "build": 2,
-  "version": "1.0.2",
-  "file": "app-2.bin",
-  "sha256": "9022dddb14b28eef0d6c4caf583daae3b5f6c5aa49cb3e161e1f6470e74c8ac7",
-  "size": 967632,
-  "notes": "Ayarlar sayfasına Başlangıç bölümü eklendi: bilgisayar açılınca kendiliğinden başlatma ve pencere kapanınca arka planda çalışma buradan açılıp kapatılır.",
-  "publishedAt": "2026-11-12T15:31:50.494Z"
+  "build": 3,
+  "version": "1.0.3",
+  "file": "app-3.bin",
+  "sha256": "16c260dd36c040d0f2cae5059e206159d975234923f9745790eb7ec34703e72e",
+  "size": 975355,
+  "notes": "Kurulum sihirbazı eklendi: uygulama ilk açıldığında mağaza adı, Trendyol bağlantısı, etiket ve başlangıç ayarlarını adım adım kurar (Ayarlar › Sihirbazı aç ile yeniden açılır). Ayarlar sayfasına Başlangıç bölümü eklendi.",
+  "publishedAt": "2026-11-12T15:39:12.441Z"
 }
