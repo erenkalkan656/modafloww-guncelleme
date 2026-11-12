@@ -1,0 +1,9 @@
+{
+  "build": 1,
+  "version": "1.0.1",
+  "file": "app-1.bin",
+  "sha256": "992fee1d4d78016845f1f6c1aa28714d58ce1690772e7d5ebc97fd71cd3599fe",
+  "size": 967075,
+  "notes": "Uzaktan güncelleme eklendi; uygulamanın adı Pazaryeri Satıcı Paneli oldu.",
+  "publishedAt": "2026-11-12T15:16:48.589Z"
+}
