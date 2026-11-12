@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.11",
-  "apk": "ModaFloww-Panel-1.0.11.apk",
-  "sha256": "71c2004beb31e1f4e453ec85bc263665e18c07cbec937be812534822c1927f44",
-  "size": 3479747,
-  "notes": "Yeni siparişler (Trendyol ReadyToShip durumu) artık Kargolanacak listesinde ve bildirimlerde görünüyor",
-  "publishedAt": "2026-10-18T14:46:34.121Z"
+  "versionCode": 14,
+  "versionName": "1.0.14",
+  "apk": "ModaFloww-Panel-1.0.14.apk",
+  "sha256": "ba078b14fd32a6e25b1490332502a52ac239128668e0189631b10ffdb2507090",
+  "size": 3548121,
+  "notes": "Yeni arayüz (Mozaik): yenilenen özet ekranı, yüzen sekme çubuğu, yeni ikonlar. 5 hazır tema (Diğer › Ayarlar › Tema). Mağaza adı ve fotoğrafı. Uygulamanın adı Pazaryeri Satıcı Paneli oldu.",
+  "publishedAt": "2026-11-12T15:26:55.736Z"
 }
