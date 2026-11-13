@@ -1,9 +1,9 @@
 {
-  "build": 5,
-  "version": "1.0.5",
-  "file": "app-5.bin",
-  "sha256": "de49b48bd0ec015a87564c95dd9f0be35b32fbbd7e731a2b950169678f09892f",
-  "size": 981649,
-  "notes": "Sticker önizlemesini hızlandırma hazırlığı: Trendyol panelinin yapısı bir kez okunur (yalnızca okuma; hiçbir etiket düğmesine basılmaz). Etiket alırken gereksiz bekleme kısaltıldı.",
-  "publishedAt": "2026-11-12T16:04:07.695Z"
+  "build": 11,
+  "version": "1.0.11",
+  "file": "app-11.bin",
+  "sha256": "1cfceb2f2e644b26520827946423e7cc622616ed2f7db71f8feecda4f1c39e40",
+  "size": 1036282,
+  "notes": "Yeni: Para → Kâr Analizi sekmesi (gerçek komisyonla sipariş ve ürün bazlı kâr, bekleyen kâr, iade kayıpları, dönem raporları). Kâr hesaplayıcı: kampanyalı komisyon oranı, tikle seçip toplu maliyet girişi. Kargo etiketi: toplu sticker yolu ve 'yazdırıldı' işareti iyileştirildi.",
+  "publishedAt": "2026-11-13T19:16:04.197Z"
 }
